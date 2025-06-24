@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Player Re-Identification Across Multiple Camera Views
 
 📌 Overview
