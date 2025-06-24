@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+torchreid
+torch
+torchvision
+tensorboard
+easyocr
+numpy
+scikit-learn
